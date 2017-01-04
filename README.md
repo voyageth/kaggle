@@ -1,1 +1,1 @@
-# kaggle-titanic
+# kaggle scripts

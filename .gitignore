@@ -91,3 +91,8 @@ ENV/
 .idea
 input
 pickle
+*.tsv
+
+zillow/train/
+
+zillow/test/

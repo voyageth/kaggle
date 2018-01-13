@@ -96,3 +96,12 @@ pickle
 zillow/train/
 
 zillow/test/
+
+**/*.h5
+**/*.csv
+**/*.pkl
+
+kkbox-music-recommendation/ouput/
+kkbox-music-recommendation/output/iris_model/
+
+
